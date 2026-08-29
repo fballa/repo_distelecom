@@ -2,7 +2,7 @@
 
 SPA (Single Page Application) de tienda en línea para **Distelecom**, construida con HTML5, CSS3 y **JavaScript ES2023 (Vanilla JS)** — sin frameworks de UI.
 
-![SPA](https://img.shields.io/badge/SPA-Vanilla%20JS-blue) ![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-green)
+## web de prueba: https://misdemos.x10.mx/tiendaspadistel/   
 
 ## Características
 
@@ -26,7 +26,8 @@ SPA (Single Page Application) de tienda en línea para **Distelecom**, construid
 - Backend con **API REST** en PHP u otro lenguaje que exponga los endpoints de la sección [API](#api-rest-requerida).
 
 ---
-
+## conexion a base de datos
+Modifica ela rchivo en apitelecom , carpeta config con los datos de conexion a base de datos.
 ---
 
 ## Instalación
