@@ -3,9 +3,9 @@
 class Database
 {
     private static string $host = 'localhost';
-    private static string $name = 'jnilgqkw_dbdistelecom';
-    private static string $user = 'jnilgqkw_dbdistelecom';
-    private static string $password = 'u2BNZhz3tau789f2sPzs';
+    private static string $name = '';
+    private static string $user = '';
+    private static string $password = '';
     private static ?PDO $connection = null;
 
     public static function getConnection(): PDO
