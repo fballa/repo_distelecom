@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "CCTV",
+    "slug": "cctv",
+    "icono": "fas fa-video",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/cama_sencilla_cctv.png",
+    "descripcion": "Cámaras IP, DVR, NVR, video porteros y sistemas de videovigilancia profesional.",
+    "destacado": true,
+    "productCount": 5
+  },
+  {
+    "id": 2,
+    "nombre": "Redes",
+    "slug": "redes",
+    "icono": "fas fa-network-wired",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/switches.png",
+    "descripcion": "Switches, routers, access points, cableado estructurado y gabinetes.",
+    "destacado": true,
+    "productCount": 7
+  },
+  {
+    "id": 3,
+    "nombre": "Control de Acceso",
+    "slug": "control-de-acceso",
+    "icono": "fas fa-fingerprint",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/terminales_biometricas.png",
+    "descripcion": "Biométricos, lectores RFID, cerraduras eléctricas y sistemas de control.",
+    "destacado": true,
+    "productCount": 3
+  },
+  {
+    "id": 4,
+    "nombre": "Telefonía IP",
+    "slug": "telefonia-ip",
+    "icono": "fas fa-phone-alt",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/telefono_ip.png",
+    "descripcion": "Centrales telefónicas, teléfonos IP, gateways VoIP y soluciones de comunicación.",
+    "destacado": true,
+    "productCount": 3
+  },
+  {
+    "id": 5,
+    "nombre": "Fibra Óptica",
+    "slug": "fibra-optica",
+    "icono": "fas fa-wifi",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/cables_utp.png",
+    "descripcion": "Cableado de fibra óptica, conectores y equipos para redes GPON.",
+    "destacado": true,
+    "productCount": 2
+  },
+  {
+    "id": 6,
+    "nombre": "POS",
+    "slug": "pos",
+    "icono": "fas fa-cash-register",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/punto_de_venta.png",
+    "descripcion": "Terminales POS, impresoras térmicas, lectores de código de barras.",
+    "destacado": true,
+    "productCount": 3
+  }
+]

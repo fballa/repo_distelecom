@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "nombre": "CCTV",
+    "icono": "fas fa-video",
+    "descripcion": "Diseñamos e instalamos sistemas de videovigilancia IP y HD-TVI con las mejores marcas del mercado. Cámaras, grabadores, video porteros y accesorios para protección 24/7.",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/cama_sencilla_cctv.png",
+    "caracteristicas": ["Cámaras IP y HD-TVI", "Grabadores DVR/NVR", "Video Porteros IP", "Sistemas híbridos", "Monitoreo remoto"]
+  },
+  {
+    "id": 2,
+    "nombre": "Infraestructura de Redes",
+    "icono": "fas fa-network-wired",
+    "descripcion": "Implementamos redes LAN, WAN y WiFi empresariales con equipos de última generación. Cableado estructurado, switches, routers y access points.",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/switches.png",
+    "caracteristicas": ["Cableado estructurado Cat6/Fibra", "Redes WiFi empresariales", "Switches gestionables", "Routers corporativos", "Firewall y seguridad"]
+  },
+  {
+    "id": 3,
+    "nombre": "Fibra Óptica",
+    "icono": "fas fa-wifi",
+    "descripcion": "Tendido, fusión y certificación de redes de fibra óptica para ISP, data centers y empresas. Cableado monomodo y multimodo.",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/cables_utp.png",
+    "caracteristicas": ["Fusión y certificación", "Cableado monomodo/multimodo", "Redes GPON/FTTH", "Conectores y patch cords", "ODF y bandejas"]
+  },
+  {
+    "id": 4,
+    "nombre": "Control de Acceso",
+    "icono": "fas fa-fingerprint",
+    "descripcion": "Sistemas de control de acceso biométrico, RFID y tarjeta de proximidad para empresas, edificios e instituciones.",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/terminales_biometricas.png",
+    "caracteristicas": ["Biométricos faciales/dactilares", "Lectores RFID", "Cerraduras eléctricas", "Software de gestión", "Integración con CCTV"]
+  },
+  {
+    "id": 5,
+    "nombre": "Telefonía IP",
+    "icono": "fas fa-phone-alt",
+    "descripcion": "Centrales telefónicas IP, telefonía en la nube y soluciones VoIP para empresas. Integración con sistemas existentes.",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/telefono_ip.png",
+    "caracteristicas": ["Centrales Panasonic/3CX", "Teléfonos IP Yealink", "Gateways VoIP", "SIP Trunking", "Comunicaciones unificadas"]
+  },
+  {
+    "id": 6,
+    "nombre": "Punto de Venta (POS)",
+    "icono": "fas fa-cash-register",
+    "descripcion": "Sistemas POS completos con hardware y software para restaurantes, tiendas, farmacias y negocios en general.",
+    "imagen": "https://misdemos.x10.mx/videos/distelecom/punto_de_venta.png",
+    "caracteristicas": ["Terminales POS Ingenico", "Impresoras térmicas Epson", "Lectores de código de barras", "Software POS", "Soporte técnico"]
+  },
+  {
+    "id": 7,
+    "nombre": "Consultoría Tecnológica",
+    "icono": "fas fa-chart-line",
+    "descripcion": "Asesoría especializada para proyectos tecnológicos. Evaluación de infraestructura, diseño de soluciones y planificación estratégica.",
+    "imagen": "",
+    "caracteristicas": ["Diagnóstico de infraestructura", "Diseño de soluciones", "Planificación estratégica", "Evaluación de proveedores", "ROI y optimización"]
+  },
+  {
+    "id": 8,
+    "nombre": "Instalación",
+    "icono": "fas fa-tools",
+    "descripcion": "Instalación profesional de equipos tecnológicos. Cámaras, switches, racks, centrales telefónicas y más.",
+    "imagen": "",
+    "caracteristicas": ["Instalación de cámaras", "Montaje de racks", "Cableado estructurado", "Configuración de red", "Puesta en marcha"]
+  },
+  {
+    "id": 9,
+    "nombre": "Configuración",
+    "icono": "fas fa-cog",
+    "descripcion": "Configuración y puesta a punto de equipos y sistemas. Routers, switches, centrales, DVR y software.",
+    "imagen": "",
+    "caracteristicas": ["Configuración de red", "Programación de centrales", "Configuración de DVR/NVR", "Puesta en marcha de POS", " parametrización de software"]
+  },
+  {
+    "id": 10,
+    "nombre": "Mantenimiento Preventivo",
+    "icono": "fas fa-calendar-check",
+    "descripcion": "Programas de mantenimiento preventivo para asegurar el óptimo funcionamiento de tus equipos tecnológicos.",
+    "imagen": "",
+    "caracteristicas": ["Limpieza de equipos", "Revisión de conexiones", "Actualización de firmware", "Respaldo de configuraciones", "Reportes trimestrales"]
+  },
+  {
+    "id": 11,
+    "nombre": "Mantenimiento Correctivo",
+    "icono": "fas fa-wrench",
+    "descripcion": "Reparación y solución de fallas en equipos tecnológicos. Respuesta rápida para minimizar el tiempo de inactividad.",
+    "imagen": "",
+    "caracteristicas": ["Diagnóstico de fallas", "Reparación de equipos", "Reemplazo de componentes", "Soporte en sitio", "Soporte remoto"]
+  }
+]

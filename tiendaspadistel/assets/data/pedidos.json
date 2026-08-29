@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ORD-001",
+    "cliente": "Carlos Martínez",
+    "correo": "carlos.martinez@ejemplo.com",
+    "fecha": "2026-06-15",
+    "total": 520.00,
+    "estado": "entregado",
+    "items": [
+      { "producto": "Cámara IP Hikvision ColorVu 8MP", "cantidad": 2, "precio": 185.00 },
+      { "producto": "Switch PoE 16 Puertos Gigabit", "cantidad": 1, "precio": 150.00 }
+    ]
+  },
+  {
+    "id": "ORD-002",
+    "cliente": "María López",
+    "correo": "maria.lopez@ejemplo.com",
+    "fecha": "2026-06-20",
+    "total": 890.00,
+    "estado": "enviado",
+    "items": [
+      { "producto": "Router MikroTik CCR1036", "cantidad": 1, "precio": 890.00 }
+    ]
+  },
+  {
+    "id": "ORD-003",
+    "cliente": "Juan Pérez",
+    "correo": "juan.perez@ejemplo.com",
+    "fecha": "2026-06-25",
+    "total": 345.00,
+    "estado": "en-proceso",
+    "items": [
+      { "producto": "Terminal Biométrico ZKTeco", "cantidad": 1, "precio": 220.00 },
+      { "producto": "Control de Acceso RFID Proximidad", "cantidad": 1, "precio": 65.00 },
+      { "producto": "Cable UTP Cat6 305m", "cantidad": 1, "precio": 60.00 }
+    ]
+  },
+  {
+    "id": "ORD-004",
+    "cliente": "Ana García",
+    "correo": "ana.garcia@ejemplo.com",
+    "fecha": "2026-07-01",
+    "total": 1250.00,
+    "estado": "recibido",
+    "items": [
+      { "producto": "Central Telefónica IP Panasonic", "cantidad": 1, "precio": 1250.00 }
+    ]
+  },
+  {
+    "id": "ORD-005",
+    "cliente": "Pedro Sánchez",
+    "correo": "pedro.sanchez@ejemplo.com",
+    "fecha": "2026-07-05",
+    "total": 710.00,
+    "estado": "entregado",
+    "items": [
+      { "producto": "Video Portero IP Hikvision", "cantidad": 1, "precio": 340.00 },
+      { "producto": "Terminal POS Ingenico iWL250", "cantidad": 1, "precio": 320.00 },
+      { "producto": "Conector RJ45 Cat6 Blindado", "cantidad": 5, "precio": 10.00 }
+    ]
+  }
+]
